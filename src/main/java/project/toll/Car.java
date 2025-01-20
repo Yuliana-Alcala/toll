@@ -1,4 +1,4 @@
-package project.peaje;
+package project.toll;
 
 public class Car extends Vehicle{
     public Car(String plate) {

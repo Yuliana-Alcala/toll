@@ -1,4 +1,4 @@
-package project.peaje;
+package project.toll;
 
 public class Truck extends Vehicle{
     private int numOfAxles;

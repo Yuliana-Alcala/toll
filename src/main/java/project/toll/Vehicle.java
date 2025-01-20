@@ -1,4 +1,4 @@
-package project.peaje;
+package project.toll;
 
 public abstract class Vehicle {
     protected String plate;
