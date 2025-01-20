@@ -23,7 +23,7 @@ public class TollStation {
         vehicle.add(v);
     }
 
-    public void obtenerReporte() {
+    public void getReport() {
         System.out.println("Estación de Peaje: " + name + ", Ciudad: " + city);
         System.out.println("Vehículos registrados:");
         for (Vehicle v : vehicle) {
