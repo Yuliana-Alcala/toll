@@ -10,4 +10,9 @@ public class CarTest {
         Vehicle car = new Car("ABC123");
         assertEquals(100, car.calculateToll());
     }
+
+    @Test
+    void testCalculateToll() {
+        
+    }
 }
