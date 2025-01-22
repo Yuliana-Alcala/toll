@@ -23,6 +23,13 @@ public class TollStation {
         vehicle.add(v);
     }
 
+    public int getTotalCollected() {
+        return totalCollected;
+    }
+    public List<Vehicle> getVehicles() { 
+        return vehicle;
+    }
+
     public void getReport() {
         System.out.println("Estación de Peaje: " + name + ", Ciudad: " + city);
         System.out.println("Vehículos registrados:");
