@@ -1,4 +1,4 @@
-package project.peaje;
+package project.toll;
 
 import org.junit.jupiter.api.Test;
 
