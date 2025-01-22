@@ -35,6 +35,27 @@ Asegúrate de tener instalado lo siguiente:
 - **Java Development Kit (JDK)** versión 8 o superior.
 - Un entorno de desarrollo compatible, como IntelliJ IDEA, Eclipse, o VS Code.
 
+---
 
+## Diagrama de Clases
+
+A continuación, se incluye el diagrama UML que ilustra las relaciones entre las clases principales del proyecto. Puedes visualizar el diagrama en la siguiente imagen:
+
+![Diagrama UML](images/diagrama_clases.png)
+
+---
+
+---
+
+## Pruebas Unitarias
+
+A continuación, se incluye el diagrama UML que ilustra las relaciones entre las clases principales del proyecto. Puedes visualizar el diagrama en la siguiente imagen:
+
+![Diagrama UML](images/diagrama_clases.png)
+  - Cobertura completa de métodos clave en las clases.
+  - Validación del comportamiento bajo diferentes escenarios.
+   ![Pruebas Unitarias](images/test.png)
+
+---
 Autor
 Yuliana Alcalá
