@@ -45,7 +45,6 @@ A continuación, se incluye el diagrama UML que ilustra las relaciones entre las
 
 ---
 
----
 
 ## Pruebas Unitarias
 
