@@ -31,12 +31,12 @@ public class TollStation {
     }
 
     public void getReport() {
-        System.out.println("Estación de Peaje: " + name + ", Ciudad: " + city);
-        System.out.println("Vehículos registrados:");
+        System.out.println("Toll Station: " + name + ", City: " + city);
+        System.out.println("Registered vehicles:");
         for (Vehicle v : vehicle) {
-            System.out.println(" - Placa: " + v.getPlate() + ", Peaje: $" + v.calculateToll());
+            System.out.println(" - Plate: " + v.getPlate() + ", Toll: $" + v.calculateToll());
         }
-        System.out.println("Total recaudado: $" + totalCollected);
+        System.out.println("Total raised: $" + totalCollected);
     }
 
 }

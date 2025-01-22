@@ -51,10 +51,10 @@ A continuación, se incluye el diagrama UML que ilustra las relaciones entre las
 
 A continuación, se incluye el diagrama UML que ilustra las relaciones entre las clases principales del proyecto. Puedes visualizar el diagrama en la siguiente imagen:
 
-![Diagrama UML](images/diagrama_clases.png)
-  - Cobertura completa de métodos clave en las clases.
-  - Validación del comportamiento bajo diferentes escenarios.
-   ![Pruebas Unitarias](images/test.png)
+
+- Cobertura completa de métodos clave en las clases.
+- Validación del comportamiento bajo diferentes escenarios.
+  ![Pruebas Unitarias](images/test.png)
 
 ---
 Autor

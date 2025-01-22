@@ -12,15 +12,15 @@ public final class App {
      * @param args The arguments of the program.
      */
     public static void main(String[] args) {
-        TollStation station = new TollStation("Peaje Central", "Ciudad X");
+        TollStation station = new TollStation("Toll Central", "City Valencia");
 
-        Vehicle coche = new Car("ABC123");
-        Vehicle moto = new Motorcycle("DEF456");
-        Vehicle camion = new Truck("GHI789", 3);
+        Vehicle car = new Car("ABC123");
+        Vehicle motorcycle = new Motorcycle("DEF456");
+        Vehicle truck = new Truck("GHI789", 4);
 
-        station.registerVehicle(coche);
-        station.registerVehicle(moto);
-        station.registerVehicle(camion);
+        station.registerVehicle(car);
+        station.registerVehicle(motorcycle);
+        station.registerVehicle(truck);
 
         station.getReport();
     }
